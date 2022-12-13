@@ -1,0 +1,5 @@
+2022-12-10 18:32:20,001 - FOX - INFO - 成功了
+2022-12-10 18:33:13,470 - logging.log - ERROR - error message
+2022-12-10 18:33:13,470 - logging.log - CRITICAL - critical message
+2022-12-10 18:36:13,807 - FOX - INFO - 成功了
+2022-12-10 19:03:33,247 - FOX - INFO - 成功了
